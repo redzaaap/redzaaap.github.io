@@ -1,0 +1,1 @@
+import{_ as s,c as a,a as o,o as t}from"./index-BiLU399b.js";const c={},n={class:"about"};function r(_,e){return t(),a("div",n,[...e[0]||(e[0]=[o("h1",null,"This is an about page",-1)])])}const l=s(c,[["render",r]]);export{l as default};
